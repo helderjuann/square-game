@@ -1,2 +1,2 @@
 # square-game
-Um simples jogo em Java que irei atualizar no futuro
+Esse jogo será atualizado em um futuro próximo para um versão melhor e funcional
